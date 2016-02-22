@@ -1,1 +1,6 @@
-var app = angular.module('userProfiles', [])
+/* global angular */
+(function(){
+
+    var app = angular.module('userProfiles', []);
+
+}());
